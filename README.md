@@ -11,3 +11,5 @@ git new branch creation
 
 git checkout -b A
  git log --oneline
+
+ git log --oneline --all --graph
