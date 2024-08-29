@@ -7,5 +7,7 @@ git clone --branch dev <git-url>
 
 Create and switch to a new branch
 
+git new branch creation
+
 git checkout -b A
  git log --oneline
