@@ -13,3 +13,5 @@ git checkout -b A
  git log --oneline
 
  git log --oneline --all --graph
+
+ git show <c582f70(id)>
