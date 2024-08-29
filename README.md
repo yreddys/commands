@@ -8,4 +8,4 @@ git clone --branch dev <git-url>
 Create and switch to a new branch
 
 git checkout -b A
-
+ git log --oneline
